@@ -1,4 +1,6 @@
 ---
+active: false
+
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
