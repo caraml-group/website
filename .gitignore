@@ -5,3 +5,8 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# Custom
+go.sum
+.hugo_build.lock
+.DS_Store

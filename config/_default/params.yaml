@@ -7,19 +7,19 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
+    local_business_type: 'ResearchOrganization'
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'The Compuational Biology Group, lead by Prof. Pietro Liò at the Computer Laboratory, University of Cambridge, develops Artificial Intelligence and Computational Biology models to understand diseases complexity and address personalised and precision medicine.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,15 +37,15 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Computational Biology Group, Department of Computer Science and Technology, University of Cambridge, UK.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -61,12 +61,13 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
+      - python
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
@@ -95,7 +96,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 16
 
 # Extensions
 
