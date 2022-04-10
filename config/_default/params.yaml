@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: native
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: 'ResearchOrganization'
-    org_name: ''
-    description: 'The Compuational Biology Group, lead by Prof. Pietro Liò at the Computer Laboratory, University of Cambridge, develops Artificial Intelligence and Computational Biology models to understand diseases complexity and address personalised and precision medicine.'
-    twitter: ''
+    org_name: 'CaRAML'
+    description: 'CaRAML is a network of machine learning and artificial intelligence researchers at the University of Cambridge.'
+    twitter: 'https://twitter.com/CaRAMLgroup'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Computational Biology Group, Department of Computer Science and Technology, University of Cambridge, UK.'
+    notice: '© {year} CaRAML.'
     license:
       enable: false
       allow_derivatives: false

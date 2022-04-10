@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Cambridge, UK
+  - name: Department of Computer Science and Technology, University of Cambridge
     url: https://www.cst.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,8 +45,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:ckj24@cl.cam.ac.uk
-    display:
-      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chaitjo
@@ -75,8 +73,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
+- PhD Students (PL)
 ---
 
 I am a PhD student at the Department of Computer Science and Technology, University of Cambridge, supervised by Prof. Pietro Liò. My research aims to explore the intersection of Graph and Geometric Deep Learning with applications in biology and drug discovery. In the long run, I am excited about how AI can accelerate and augment scientific discovery, from novel medicine to energy-efficient materials.
-
-Previously, I was a Research Engineer at the Institute for Infocomm Research, A*STAR, Singapore, where I was awarded the National Science Scholarship (PhD). Before that, I graduated as the Valedictorian from Nanyang Technological University, Singapore in 2019 with a B.Eng. in Computer Science. At NTU, I was awarded the Best Final Year Thesis Gold Medal supervised by Prof. Xavier Bresson, as well as the Best Professional Internship Award as a Research Intern at SAP Machine Learning, Singapore.

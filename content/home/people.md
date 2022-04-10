@@ -10,23 +10,25 @@ headless: true
 weight: 30
 
 title: People
-subtitle: Current members of the Computational Biology Group.
+subtitle: Current and former members of CaRAML
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigator
-  - Researcher Associates
+  - Academic Staff
+  - Post-doctoral Researchers
+  - DECAF Fellows
   - PhD Students
   - Master's Students
   - Undergraduate Students
   - Administration
   - Visitors
+  - Alumni
 design:
   show_interests: true
   show_role: true
   show_social: true
 ---
 
-<a href="/people/">See full list <i class="fas fa-arrow-right"></i></a>
+<a href="TODO">Join the CaRAML network <i class="fas fa-angle-right"></i></a>

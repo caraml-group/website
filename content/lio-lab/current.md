@@ -7,22 +7,23 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
-title: Alumni
-subtitle: Past members of the Computational Biology Group.
+title: People
+subtitle: Current members of the Computational Biology Group.
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Researcher Associates (Alumni)
-  - PhD Students (Alumni)
-  - Master's Students (Alumni)
-  - Undergraduate Students (Alumni)
-  - Visitors (Alumni)
+  - Post-doctoral Researchers (PL)
+  - PhD Students (PL)
+  - Master's Students (PL)
+  - Undergraduate Students (PL)
+  - Administration (PL)
+  - Visitors (PL)
 design:
-  show_interests: false
+  show_interests: true
   show_role: true
   show_social: true
 ---
