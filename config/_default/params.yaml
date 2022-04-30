@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: 'ResearchOrganization'
-    org_name: 'CaRAML'
-    description: 'CaRAML is a network of machine learning and artificial intelligence researchers at the University of Cambridge.'
+    org_name: 'CaRAML - Cambridge Research & Applications in Machine Learning'
+    description: 'CaRAML is a community of machine learning and artificial intelligence researchers at the University of Cambridge.'
     twitter: 'https://twitter.com/CaRAMLgroup'
   analytics:
     google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} CaRAML.'
+    notice: '© {year} CaRAML - Cambridge Research & Applications in Machine Learning.'
     license:
       enable: false
       allow_derivatives: false
@@ -96,7 +96,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 16
+    zoom: 14
 
 # Extensions
 

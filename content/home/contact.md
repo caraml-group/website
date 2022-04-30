@@ -24,9 +24,9 @@ content:
   #   postcode: 
   #   country: United Kingdom
   #   country_code: UK
-  # coordinates:
-  #   latitude: '52.21078723113385'
-  #   longitude: '0.0922959785002502'
+  coordinates:
+    latitude: '52.205297'
+    longitude: '0.1172798'
   directions: University of Cambridge, UK
   # office_hours:
   #   - 'Monday 10:00 to 13:00'

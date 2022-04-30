@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: People
-subtitle: Current and former members of CaRAML
+subtitle: <a href="https://forms.gle/2eBrUvAkwC2SJWmA9">Join the CaRAML community <i class="fas fa-angle-right"></i></a>
 
 content:
   # Choose which groups/teams of users to display.
@@ -31,4 +31,6 @@ design:
   show_social: true
 ---
 
-<a href="TODO">Join the CaRAML network <i class="fas fa-angle-right"></i></a>
+<!-- <br>
+
+{{< cta cta_text="Join the CaRAML network" cta_link="https://forms.gle/2eBrUvAkwC2SJWmA9" cta_new_tab="true" >}} -->

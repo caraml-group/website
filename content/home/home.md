@@ -35,14 +35,14 @@ cta:
   icon_pack: fab
   icon: twitter
 cta_alt:
-  url: 'https://caraml-group.slack.com/'
-  label: Join CaRAML Slack 
+  url: 'https://forms.gle/2eBrUvAkwC2SJWmA9'
+  label: Join CaRAML
 ---
 
 <h1>CaRAML - Cambridge Research & Applications in Machine Learning</h1>
 
 <br>
 
-**CaRAML** is a network of machine learning and artificial intelligence researchers at the **University of Cambridge**.
+**CaRAML** is a community of machine learning and artificial intelligence researchers at the **University of Cambridge**.
 
 <br>

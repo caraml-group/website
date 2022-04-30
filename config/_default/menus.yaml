@@ -7,9 +7,6 @@ main:
   - name: Home
     url: '#home'
     weight: 10
-  # - name: News
-  #   url: post
-  #   weight: 20
   - name: Blog
     url: post
     weight: 30

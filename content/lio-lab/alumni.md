@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Recent Alumni
-subtitle: Past members of the Computational Biology Group.
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
@@ -18,7 +18,7 @@ content:
   user_groups:
   - Alumni (PL)
 design:
-  show_interests: false
+  show_interests: true
   show_role: true
   show_social: true
 ---
