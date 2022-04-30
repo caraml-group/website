@@ -14,7 +14,7 @@ role: Professor of Computational Biology
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge, UK
+- name: Department of Computer Science and Technology, University of Cambridge
   url: https://www.cst.cam.ac.uk/
 - name: Artificial Intelligence Group
   url: https://www.cl.cam.ac.uk/research/ai/
@@ -71,9 +71,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Academic Staff
 ---
 
-I am Full Professor at the department of Computer Science and Technology of the University of Cambridge. I am a member of the Artificial Intelligence Group and the Cambridge Centre for AI in Medicine.
+I am Full Professor at the Department of Computer Science and Technology of the University of Cambridge. I am a member of the Artificial Intelligence Group and the Cambridge Centre for AI in Medicine.
 
 My research interest focuses on developing Artificial Intelligence and Computational Biology models to understand diseases complexity and address personalised and precision medicine. Current focus is on Graph Neural Network modeling.

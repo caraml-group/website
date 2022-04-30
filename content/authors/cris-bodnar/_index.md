@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Simon Mathis"
+title: "Cris Bodnar"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "simon-mathis"
+- "cris-bodnar"
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,34 +16,27 @@ role: PhD Student
 organizations:
 - name: Department of Computer Science and Technology, University of Cambridge
   url: https://www.cst.cam.ac.uk/
-- name: Centre for Doctoral Training in Artificial Intelligence for Environmental Risks
-  url: https://ai4er-cdt.esc.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Artificial Intelligence
-- Biotechnology
-- Protein Design
-- Environmental Applications
-- Quantum Physics
+- Geometric Deep Learning
+- Topological Deep Learning
+- Nonlinear Dynamics
 
 education:
   courses:
-  - course: PhD in Computer Science (AI4ER CDT)
+  - course: PhD in Machine Learning
     institution: University of Cambridge, UK
-    year: 2021 –
-  - course: MRes in Environmental Data Science & Artificial Intelligence (AI4ER CDT)
+    year: 2019 –
+  - course: MPhil in Advanced Computer Science
     institution: University of Cambridge, UK
-    year: 2021
-  - course: MSc in Physics
-    institution: ETH Zürich
     year: 2019
-  - course: BSc in Physics
-    institution: ETH Zürich
-    year: 2017
+  - course: BS in Computer Science
+    institution: The University of Manchester, UK
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -52,22 +45,22 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://simonmathis.com/
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: https://crisbodnar.github.io/
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:cb2015@cam.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/SimMat20
+  link: https://twitter.com/crisbodnar
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=N6I6fT0AAAAJ
+  link: https://scholar.google.com/citations?user=pSmh9tkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/Croydon-Brixton
-- icon: github
+  link: https://github.com/crisbodnar
+- icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/simonmathis/
+  link: https://www.linkedin.com/in/crisbodnar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -87,6 +80,4 @@ user_groups:
 - PhD Students (PL)
 ---
 
-Hi! I’m Simon, a PhD student in artificial intelligence with Prof. Pietro Lió and the the centre for doctoral training for artificial intelligence for environmental risk (AI4ER) at the Uni of Cambridge. I know, it’s a mouthful!
-
-I work at the intersection of artificial intelligence, biology and climate change. In particular, I reserach on using artificial intelligence to tap into biology’s potential to mitigate environmental problems (via protein design, enzyme optimisation) and on developing artificial intelligence to understand the impacts of changing environmental conditions on biological systems (protein stability, metabolic modelling).
+Hi there! My name is Cris, and I am a third-year PhD student in the Department of Computer Science, University of Cambridge, supervised by Prof Pietro Liò. My research uses applied Topology and Differential Geometry for understanding and developing Geometric Deep Learning models suitable for problems presenting an underlying combinatorial structure. Within this area, I am particularly interested in theoretical questions of practical importance for graph representation learning.

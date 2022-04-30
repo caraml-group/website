@@ -17,17 +17,17 @@ content:
 
   # email: test@example.org
   # phone: 888 888 88 88
-  address:
-    street: 15 JJ Thomson Ave
-    city: Cambridge
-    region: Cambridgeshire
-    postcode: 'CB3 0FD'
-    country: United Kingdom
-    country_code: UK
-  coordinates:
-    latitude: '52.21078723113385'
-    longitude: '0.0922959785002502'
-  directions: William Gates Building, Computer Laboratory, University of Cambridge
+  # address:
+  #   street: University of Cambridge
+  #   city: 
+  #   region: 
+  #   postcode: 
+  #   country: United Kingdom
+  #   country_code: UK
+  # coordinates:
+  #   latitude: '52.21078723113385'
+  #   longitude: '0.0922959785002502'
+  directions: University of Cambridge, UK
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
@@ -36,11 +36,11 @@ content:
   - icon: twitter
     icon_pack: fab
     name: Follow us on Twitter
-    link: 'https://twitter.com/'
-  - icon: github
+    link: 'https://twitter.com/CaRAMLgroup'
+  - icon: slack
     icon_pack: fab
-    name: Code on GitHub
-    link: 'https://github.com/'
+    name: Join the CarRAML Slack channel
+    link: 'https://caraml-group.slack.com/'
   - icon: envelope
     icon_pack: fas
     name: Email individually for appointments
