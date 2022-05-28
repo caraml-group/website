@@ -1,48 +1,37 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# CaRAML Website
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+This repository houses the content for the CaRAML group website.
+All content is primarily in Markdown and converted into webpages via Hugo.
+The website is deployed publicly via GitHub pages (see [`caraml-group.github.io`](https://github.com/caraml-group/caraml-group.github.io)).
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+Quick Links:
+- **Template**: [Link](https://wowchemy.com/hugo-themes/)
+- **Documentation**: [Link](https://wowchemy.com/docs/)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+### Adding a new profile or creating content
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+If you want to add a new **profile** or **blogpost/other content**, it may be easiest to follow this workflow: 
+- Fork this repository.
+- Write in markdown, following the folder structure (place things in the appropriate folders under `content/authors/` or `content/post/`).
+- Create a Pull Request in the original repository for review (an administrator will help you deploy).
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+This way, you will not need to install anything.
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+### Local development and public deployment
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+For local development, please follow the instructions for the [Academic theme](https://wowchemy.com/docs/getting-started/install-hugo-extended/).
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/.github/contributing.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+For deploying to publicly to .github.io, follow the instructions [here](https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages).
 
-## We ask you, humbly, to support this open source movement
+You may need to ensure that you are installing the exact versions of Hugo and the Academic theme when deploying to .github.io:
+- Hugo: 0.93.1
+- Theme: 5.0.0
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+### Contribution Guidelines
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-## Demo credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+- Follow the [GitHub Flow](https://guides.github.com/introduction/flow/).
+    - Branch/Fork → Commit → Pull Request [→ Merge]
+- Commit messages should be in title case and descriptive.
+- Maintain consistent coding style.
+- Comment out or delete debug statements when committing.
+- Make sure you haven't broken anything that was previously working.
