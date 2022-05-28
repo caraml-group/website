@@ -29,7 +29,7 @@ gallery_item:
   image: pizzaexpress.jpeg
   caption: Group social at PizzaExpress (a.k.a. Simon's favorite restaurant)
 - album: lio-lab
-  image: wolfson_formal.jpeg
+  image: wolfson_formal.jpg
   caption: Formal at Wolfson College
 - album: lio-lab
   image: birthdays_march2022.jpeg

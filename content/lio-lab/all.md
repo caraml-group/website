@@ -27,7 +27,8 @@ design:
 #   css_class: fullscreen
 ---
 
-[(Source)](https://www.cl.cam.ac.uk/~pms69/group.html)
+[(Source 1)](https://www.cl.cam.ac.uk/~pms69/group.html)
+[(Source 2)](https://www.cl.cam.ac.uk/lists/phd/supervisor.html)
 
 ## Research Associates
 
