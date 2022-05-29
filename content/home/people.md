@@ -22,6 +22,7 @@ content:
   - PhD Students
   - Master's Students
   - Undergraduate Students
+  - Affiliates
   - Administration
   - Visitors
   - Alumni
