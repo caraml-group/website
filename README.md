@@ -13,9 +13,11 @@ Quick Links:
 If you want to add a new **profile** or **blogpost/other content**, it may be easiest to follow this workflow: 
 - Fork this repository.
 - Write in markdown, following the folder structure (place things in the appropriate folders under `content/authors/` or `content/post/`).
+  - For e.g., if you want to create a new profile for 'John Doe', you will create a new folder `content/authors/john-doe` and create a file titled `_index.md` under it. You can then copy the contents from [here](https://github.com/caraml-group/website/blob/main/content/authors/chaitanya-joshi/_index.md) into the newly created `_index.md` and update the contents to those of John Doe. Optionally, add a profile picture titled `featured.jpg` or `featured.png` under the same folder.
 - Create a Pull Request in the original repository for review (an administrator will help you deploy).
 
 This way, you will not need to install anything.
+
 
 ### Local development and public deployment
 
