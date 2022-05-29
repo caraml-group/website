@@ -36,7 +36,7 @@ content:
   - icon: twitter
     icon_pack: fab
     name: Follow us on Twitter
-    link: 'https://twitter.com/CaRAMLgroup'
+    link: 'https://twitter.com/CaRAMLCambridge'
   - icon: slack
     icon_pack: fab
     name: Join the CarRAML Slack channel

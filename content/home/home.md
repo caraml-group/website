@@ -30,7 +30,7 @@ design:
   css_class:
 
 cta:
-  url: 'https://twitter.com/CaRAMLgroup'
+  url: 'https://twitter.com/CaRAMLCambridge'
   label: Follow Us
   icon_pack: fab
   icon: twitter
