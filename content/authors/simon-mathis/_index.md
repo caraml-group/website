@@ -65,7 +65,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Croydon-Brixton
-- icon: github
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/simonmathis/
 # Link to a PDF of your resume/CV from the About widget.
