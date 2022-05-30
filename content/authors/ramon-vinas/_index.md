@@ -35,7 +35,7 @@ education:
       year: 2019 –
     - course: MSc in Machine Learning
       institution: University College London, UK
-      year: 2019 –
+      year: 2017 – 2018
     - course: BSc in Computer Science
       institution: Universitat de Girona
       year: 2013 – 2017
