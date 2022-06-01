@@ -29,7 +29,7 @@ content:
 design:
   show_interests: true
   show_role: true
-  show_social: false
+  show_social: true
 ---
 
 <!-- <br>
