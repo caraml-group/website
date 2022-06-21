@@ -18,7 +18,7 @@ organizations:
     url: https://www.disi.unitn.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: todo
+bio: Antonio is a PhD student at the Fondazione Bruno Kessler and the University of Trento, under the supervision of Bruno Lepri and Andrea Passerini. He is currently a visiting researcher at Cambridge University (Cambridge, UK). His research mainly focuses on Temporal Graph Mining and Geometric Deep Learning. Before joining the Fondazione Bruno Kessler, he studied as an exchange student at Aalto University (Finland) and he did his master thesis at the University of Exeter (UK). He received his master's degree from the University of Trento and his bachelor's degree from Milano-Bicocca University.
 
 # List each interest with a dash
 interests:
@@ -88,4 +88,3 @@ user_groups:
 ---
 I am a PhD student at the University of Trento working in the <a href="https://mobs-fbk.github.io/">MobS Lab</a> at the ICT center of the Fondazione Bruno Kessler in Trento (IT) under the supervision of Bruno Lepri, and in the <a href="http://sml.disi.unitn.it/">Structured Machine Learning (SML)</a> Group at the University of Trento under the supervision of Andrea Passerini. My research activity focuses on Complex Systems, Temporal Networks and explainable artificial intelligence. My current projects are related to Graph Neural Network Explainability.
 I am always enthusiastic to talk about science, feel free to contact me. :)
-
