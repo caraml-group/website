@@ -13,13 +13,16 @@ main:
   - name: People
     url: '#people'
     weight: 40
-  - name: Groups
-    identifier: groups
+  - name: Evants & Socials
+    url: events
     weight: 45
-  - name: Liò Lab
-    parent: groups
-    url: 'lio-lab'
-    weight: 1
+  # - name: Groups
+  #   identifier: groups
+  #   weight: 45
+  # - name: Liò Lab
+  #   parent: groups
+  #   url: 'lio-lab'
+  #   weight: 1
   - name: Contact
     url: '#contact'
     weight: 50

@@ -36,7 +36,7 @@ cta:
   icon: twitter
 cta_alt:
   url: 'https://forms.gle/2eBrUvAkwC2SJWmA9'
-  label: Join CaRAML
+  label: Join CaRAML Slack
 ---
 
 <h1>CaRAML - Cambridge Research & Applications in Machine Learning</h1>
