@@ -13,7 +13,7 @@ main:
   - name: People
     url: '#people'
     weight: 40
-  - name: Evants & Socials
+  - name: Events & Socials
     url: events
     weight: 45
   # - name: Groups
