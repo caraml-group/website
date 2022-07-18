@@ -22,8 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Explainable AI
-- Interpretable Machine Learning
+- Machine Learning
 
 education:
 
