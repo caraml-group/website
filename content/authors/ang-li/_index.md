@@ -14,10 +14,10 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Cancer Research UK Cambridge Institute, University of Cambridge
-    url: https://www.cruk.cam.ac.uk/
   - name: Department of Computer Science and Technology, University of Cambridge
     url: https://www.cst.cam.ac.uk/
+  - name: Cancer Research UK Cambridge Institute, University of Cambridge
+    url: https://www.cruk.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -34,12 +34,6 @@ education:
     - course: PhD in Computational Biology
       institution: University of Cambridge, UK
       year: 2021 – 
-    - course: MPhil in Computational Biology
-      institution: University of Cambridge, UK
-      year: 2020 - 2021
-    - course: M.Eng. in Computing
-      institution: Imperial College London, UK
-      year: 2015 – 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -58,6 +52,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en-gb&user=tFfIjNIAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-6748-2049
   - icon: github
     icon_pack: fab
     link: https://github.com/899la
