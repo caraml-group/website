@@ -10,3 +10,4 @@ assets/jsconfig.json
 go.sum
 .hugo_build.lock
 .DS_Store
+/archive
