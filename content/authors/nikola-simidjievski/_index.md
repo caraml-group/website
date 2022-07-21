@@ -23,6 +23,7 @@ bio:
 # List each interest with a dash
 interests:
 - Machine Learning
+- ML application in medicine, biology and neuroscience
 
 education:
 
