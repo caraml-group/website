@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Staff Research Scientist, DeepMind
+role: Affiliated Lecturer, Cambridge & Staff Research Scientist, DeepMind
 
 # Organizations/Affiliations
 organizations:
@@ -68,8 +68,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Affiliates
-- Alumni
-- Alumni (PL)
 ---
 
 I’m Petar, a Staff Research Scientist at DeepMind, Affiliated Lecturer at the University of Cambridge, and an Associate of Clare Hall, Cambridge. I hold a PhD in Computer Science from the University of Cambridge (Trinity College), obtained under the supervision of Pietro Liò. My research concerns geometric deep learning—devising neural network architectures that respect the invariances and symmetries in data (a topic I’ve co-written a proto-book about). For my contributions to the area, I am recognised as an ELLIS Scholar in the Geometric Deep Learning Program. Within this area, I focus on graph representation learning and its applications in algorithmic reasoning and computational biology. In particular, I am the first author of Graph Attention Networks—a popular convolutional layer for graphs—and Deep Graph Infomax—a popular self-supervised learning pipeline for graphs (featured in ZDNet). My research has been used in substantially improving the travel-time predictions in Google Maps (featured in the CNBC, Endgadget, VentureBeat, CNET, the Verge and ZDNet), and guiding the intuition of mathematicians towards new top-tier theorems and conjectures (featured in Nature, New Scientist, The Independent, Sky News, The Sunday Times and The Conversation).
