@@ -2,15 +2,15 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Announcing CaRAML"
-subtitle: ""
-summary: ""
+subtitle: "What is CaRAML, what are its goals, and how did it start?"
+summary: "CaRAML brings together Cambridge researchers working in ML and AI across theory and practice. The primary goals are to build a community via in-person social eveants, and provide a research platform and collaboration channel."
 
-authors: []
+authors: [caraml]
 tags: []
 categories: []
 
 date: 2022-04-30
-lastmod: 2022-04-30
+lastmod: 2022-08-18
 
 featured: true
 draft: false
@@ -33,12 +33,31 @@ projects: []
 
 <img src="caraml.jpeg">
 
-CaRAML is a community of machine learning and artificial intelligence researchers at the University of Cambridge.
+## What is CaRAML?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+CaRAML - **Cambridge Research & Applications in Machine Learning** - is a community of machine learning and artificial intelligence researchers at the University of Cambridge.
+CaRAML aims to bring together Cambridge students, researchers, and faculty working in ML and AI across theory and practice.
+CaRAML is primarily a **student-led effort**, and not an official affliliation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
-platform for sharing research via blogs and talks
+## What are the goals of CaRAML?
 
-bring people together and build a community via in-person social interactions and social media presensce
+### Community
+The primary goal of CaRAML is to build a community and bring likeminded people together via **in-person social interactions** and [**events**]({{< relref "/events/" >}}).
+Events can range from research focussed meetups and reading groups, to socials at local restaurants and pubs, to activities such as sports or hikes.
+
+### Research Platform
+CaRAML also aims to provide a platform for sharing and disseminating research via [**blogposts**]({{< relref "/post/" >}}) and **talks**, as well as highlight members' achievements via an active [**social media**](https://twitter.com/CaRAMLCambridge) presence.
+
+The CaRAML blog can host or link to blogposts written by members about their latest papers, commentaries on recent research advances, and beyond.
+The website supports markdown and LaTeX.
+
+### Collaboration Channel
+Finally, CaRAML is an active [**Slack channel**](https://caraml-group.slack.com/) where members can collaborate on research projects, discuss papers in reading groups, advertise opportunities, organise social events, and much more.
+
+---
+
+## How did CaRAML start?
+
+CaRAML was **started in 2020** (and restarted in 2022) by PhD students at the Computer Laboratory and their cross-departmental collaborators, with the goal of promoting AI and ML research happening across Cambridge and building a likeminded community.
