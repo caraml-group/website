@@ -33,11 +33,13 @@ projects: []
 
 <img src="caraml.jpeg">
 
-## What is CaRAML?
+## What is CaRAML and who can join?
 
 CaRAML - **Cambridge Research & Applications in Machine Learning** - is a community of machine learning and artificial intelligence researchers at the University of Cambridge.
 CaRAML aims to bring together Cambridge students, researchers, and faculty working in ML and AI across theory and practice.
+
 CaRAML is primarily a **student-led effort**, and not an official affliliation.
+Everyone is welcome to participate regardless of affiliation and experience.
 
 ---
 
