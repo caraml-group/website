@@ -72,4 +72,4 @@ user_groups:
 - PhD Students
 ---
 
-I am a PhD student at the University of Cambridge with a strong mathematical background. My main interest is generative deep learning for protein design.
+Hi! I'm Julia, a PhD Student at the Department of Computer Science and Technology, supervised by Prof. Mateja Jamnik and Prof. Pietro Liò. My main research interest is generative deep learning models for protein design, with a specific emphasis on developing methods to condition such models on the structural and dynamical properties.
